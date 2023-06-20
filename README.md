@@ -4,7 +4,7 @@
  
 <span> It all started with World of Warcraft </span>
 
-First a custom-made addon in Lua, then sign mail in HTML, the discovery of Python and finally the bootcamp at Le Wagon in Lausanne.
+From crafting custom-made Lua addons, to update email signatures in HTML for my respected colleagues, the enchanting journey led me to dynamic realm of Python. It ultimately paved the way for a valuable bootcamp experience at Le Wagon in Lausanne, where I further refined my skills and learned new languages.
 <br>
 <br>
 
