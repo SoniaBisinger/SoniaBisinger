@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+It all started with World of Warcraft 
+<br>
+<img src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/fh/FHSCSCG9CXOC1462229977849.png" height= "30px">
+
+First a custom-made addon in Lua, then sign mail in HTML, the discovery of Python and finally the bootcamp at Le Wagon in Lausanne.
 <!--
 **SoniaBisinger/SoniaBisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
