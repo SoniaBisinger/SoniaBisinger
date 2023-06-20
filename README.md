@@ -1,10 +1,41 @@
 ### Hi there 👋
 
-It all started with World of Warcraft 
-<br>
-<img src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/fh/FHSCSCG9CXOC1462229977849.png" height= "30px">
+ <img src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/fh/FHSCSCG9CXOC1462229977849.png" height= "30px">
+ 
+<span> It all started with World of Warcraft </span>
 
 First a custom-made addon in Lua, then sign mail in HTML, the discovery of Python and finally the bootcamp at Le Wagon in Lausanne.
+<br>
+<br>
+
+📚 Currently learning:
+
+<a href="https://www.ruby-lang.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/480px-Ruby_logo.svg.png" alt="Ruby logo" height= "30px"></a> & <a href="https://rubyonrails.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ruby_on_Rails-logo.png/320px-Ruby_on_Rails-logo.png" alt="Ruby on Rails logo" height= "30px">
+</a>, <a href="https://www.python.org/">
+  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python logo" height= "30px">
+</a> & <a href="https://www.djangoproject.com/">
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="Django logo" height= "30px">
+</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png" alt="JavaScript logo" height= "30px">
+</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1280px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 logo" height= "30px">
+</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 logo" height= "30px">
+</a>,  <a href="https://www.postgresql.org/">
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL logo" height= "30px">
+</a>
+
+
+<br>
+<br>
+<br>
+
+On my last project i loved to learn how to manage a cart in E-commerce, i want to practice it with different languages. 
+-> [helicia.me ](https://www.helicia.me/)
+
+💡 Looking forward to working on exciting projects and expanding my skills!
 <!--
 **SoniaBisinger/SoniaBisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
