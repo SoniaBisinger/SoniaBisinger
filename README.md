@@ -36,6 +36,10 @@ On my last project i loved to learn how to manage a cart in E-commerce, i want t
 -> [helicia.me ](https://www.helicia.me/)
 
 💡 Looking forward to working on exciting projects and expanding my skills!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoniaBisinger&theme=dark)
+
+![Codewars](https://www.codewars.com/users/Kaleisha/badges/large)
 <!--
 **SoniaBisinger/SoniaBisinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
