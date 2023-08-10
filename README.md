@@ -33,7 +33,6 @@ From crafting custom-made Lua addons, to update email signatures in HTML for my 
 <br>
 
 On my last project i loved to learn how to manage a cart in E-commerce, i want to practice it with different languages. 
--> [helicia.me ](https://www.helicia.me/)
 
 💡 Looking forward to working on exciting projects and expanding my skills!
 
